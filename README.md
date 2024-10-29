@@ -1,4 +1,4 @@
-## Hi there 👋
+## Current CS Student at Tufts currently learning app development for Apple platforms!
 
 <!--
 **ModernGonzo06/ModernGonzo06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
